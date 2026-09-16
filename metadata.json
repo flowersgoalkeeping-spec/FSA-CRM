@@ -1,0 +1,8 @@
+{
+  "name": "Flowers Soccer Academy CRM",
+  "description": "Pipeline and automated 1-year email drip CRM for Flowers Soccer Academy goalkeepers and field players across multiple locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
